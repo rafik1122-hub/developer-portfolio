@@ -7,7 +7,7 @@ section{display:flex ;
 margin-bottom: 150px;}
 .half-width{width: 50%;
 padding-left: 2% ;}
-.half-widthimage{width: 80%;padding: 60px 0px 40px 40px;}
+.half-width img{width: 80%;padding: 60px 0px 40px 40px;}
 .link-button{text-decoration: none;
     background-image:linear-gradient(orange,tomato);
 padding: 10px 40px;
